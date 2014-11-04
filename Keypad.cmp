@@ -1,0 +1,549 @@
+Cmp-Mod V01 Created by CvPcb (2014-01-10 BZR 4027)-stable date = Saturday, November 01, 2014 'AMt' 06:49:16 AM
+
+BeginCmp
+TimeStamp = /54540705;
+Reference = BACKSPACE1;
+ValeurCmp = SW_PUSH;
+IdModule  = CHERRY_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = /545406DE;
+Reference = D2;
+ValeurCmp = DIODE;
+IdModule  = CHERRY_MX_DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = /545408BA;
+Reference = D3;
+ValeurCmp = DIODE;
+IdModule  = CHERRY_MX_DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = /545408F6;
+Reference = D4;
+ValeurCmp = DIODE;
+IdModule  = CHERRY_MX_DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = /54540BE2;
+Reference = D5;
+ValeurCmp = DIODE;
+IdModule  = CHERRY_MX_DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = /54540C1E;
+Reference = D6;
+ValeurCmp = DIODE;
+IdModule  = CHERRY_MX_DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = /545406ED;
+Reference = D9;
+ValeurCmp = DIODE;
+IdModule  = CHERRY_MX_DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = /545408C9;
+Reference = D10;
+ValeurCmp = DIODE;
+IdModule  = CHERRY_MX_DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = /54540905;
+Reference = D11;
+ValeurCmp = DIODE;
+IdModule  = CHERRY_MX_DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = /54540BF1;
+Reference = D12;
+ValeurCmp = DIODE;
+IdModule  = CHERRY_MX_DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = /54542F84;
+Reference = D14;
+ValeurCmp = DIODE;
+IdModule  = CHERRY_MX_DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = /545406FC;
+Reference = D16;
+ValeurCmp = DIODE;
+IdModule  = CHERRY_MX_DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = /545408D8;
+Reference = D17;
+ValeurCmp = DIODE;
+IdModule  = CHERRY_MX_DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = /54540914;
+Reference = D18;
+ValeurCmp = DIODE;
+IdModule  = CHERRY_MX_DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = /54540C00;
+Reference = D19;
+ValeurCmp = DIODE;
+IdModule  = CHERRY_MX_DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = /54540C3C;
+Reference = D20;
+ValeurCmp = DIODE;
+IdModule  = CHERRY_MX_DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = /54542F93;
+Reference = D21;
+ValeurCmp = DIODE;
+IdModule  = CHERRY_MX_DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = /5454070B;
+Reference = D23;
+ValeurCmp = DIODE;
+IdModule  = CHERRY_MX_DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = /545408E7;
+Reference = D24;
+ValeurCmp = DIODE;
+IdModule  = CHERRY_MX_DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = /54540923;
+Reference = D25;
+ValeurCmp = DIODE;
+IdModule  = CHERRY_MX_DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = /54540C0F;
+Reference = D26;
+ValeurCmp = DIODE;
+IdModule  = CHERRY_MX_DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = /5454315F;
+Reference = D27;
+ValeurCmp = DIODE;
+IdModule  = CHERRY_MX_DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = /54542FA2;
+Reference = D28;
+ValeurCmp = DIODE;
+IdModule  = CHERRY_MX_DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = /54542F8D;
+Reference = DOWN1;
+ValeurCmp = SW_PUSH;
+IdModule  = CHERRY_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = /54540C09;
+Reference = ENTER1;
+ValeurCmp = SW_PUSH;
+IdModule  = CHERRY_PCB_200V;
+EndCmp
+
+BeginCmp
+TimeStamp = /545406E7;
+Reference = SLASH1;
+ValeurCmp = SW_PUSH;
+IdModule  = CHERRY_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = /54545FF2;
+Reference = LED1;
+ValeurCmp = LED;
+IdModule  = CHERRY_MX_LED;
+EndCmp
+
+BeginCmp
+TimeStamp = /54546439;
+Reference = LED2;
+ValeurCmp = LED;
+IdModule  = CHERRY_MX_LED;
+EndCmp
+
+BeginCmp
+TimeStamp = /54546523;
+Reference = LED3;
+ValeurCmp = LED;
+IdModule  = CHERRY_MX_LED;
+EndCmp
+
+BeginCmp
+TimeStamp = /54546535;
+Reference = LED4;
+ValeurCmp = LED;
+IdModule  = CHERRY_MX_LED;
+EndCmp
+
+BeginCmp
+TimeStamp = /54546ADB;
+Reference = LED5;
+ValeurCmp = LED;
+IdModule  = CHERRY_MX_LED;
+EndCmp
+
+BeginCmp
+TimeStamp = /54546AED;
+Reference = LED6;
+ValeurCmp = LED;
+IdModule  = CHERRY_MX_LED;
+EndCmp
+
+BeginCmp
+TimeStamp = /54546AFF;
+Reference = LED7;
+ValeurCmp = LED;
+IdModule  = CHERRY_MX_LED;
+EndCmp
+
+BeginCmp
+TimeStamp = /54546B11;
+Reference = LED8;
+ValeurCmp = LED;
+IdModule  = CHERRY_MX_LED;
+EndCmp
+
+BeginCmp
+TimeStamp = /5454609B;
+Reference = LED9;
+ValeurCmp = LED;
+IdModule  = CHERRY_MX_LED;
+EndCmp
+
+BeginCmp
+TimeStamp = /5454643F;
+Reference = LED10;
+ValeurCmp = LED;
+IdModule  = CHERRY_MX_LED;
+EndCmp
+
+BeginCmp
+TimeStamp = /54546529;
+Reference = LED11;
+ValeurCmp = LED;
+IdModule  = CHERRY_MX_LED;
+EndCmp
+
+BeginCmp
+TimeStamp = /5454653B;
+Reference = LED12;
+ValeurCmp = LED;
+IdModule  = CHERRY_MX_LED;
+EndCmp
+
+BeginCmp
+TimeStamp = /54546AE1;
+Reference = LED13;
+ValeurCmp = LED;
+IdModule  = CHERRY_MX_LED;
+EndCmp
+
+BeginCmp
+TimeStamp = /54546AF3;
+Reference = LED14;
+ValeurCmp = LED;
+IdModule  = CHERRY_MX_LED;
+EndCmp
+
+BeginCmp
+TimeStamp = /54546B05;
+Reference = LED15;
+ValeurCmp = LED;
+IdModule  = CHERRY_MX_LED;
+EndCmp
+
+BeginCmp
+TimeStamp = /54546B17;
+Reference = LED16;
+ValeurCmp = LED;
+IdModule  = CHERRY_MX_LED;
+EndCmp
+
+BeginCmp
+TimeStamp = /5454E48A;
+Reference = LED17;
+ValeurCmp = LED;
+IdModule  = CHERRY_MX_LED;
+EndCmp
+
+BeginCmp
+TimeStamp = /5454E49C;
+Reference = LED18;
+ValeurCmp = LED;
+IdModule  = CHERRY_MX_LED;
+EndCmp
+
+BeginCmp
+TimeStamp = /5454E4AE;
+Reference = LED19;
+ValeurCmp = LED;
+IdModule  = CHERRY_MX_LED;
+EndCmp
+
+BeginCmp
+TimeStamp = /5454E490;
+Reference = LED20;
+ValeurCmp = LED;
+IdModule  = CHERRY_MX_LED;
+EndCmp
+
+BeginCmp
+TimeStamp = /5454E4A2;
+Reference = LED21;
+ValeurCmp = LED;
+IdModule  = CHERRY_MX_LED;
+EndCmp
+
+BeginCmp
+TimeStamp = /5454E4B4;
+Reference = LED22;
+ValeurCmp = LED;
+IdModule  = CHERRY_MX_LED;
+EndCmp
+
+BeginCmp
+TimeStamp = /54542F7E;
+Reference = LEFT1;
+ValeurCmp = SW_PUSH;
+IdModule  = CHERRY_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = /545408E1;
+Reference = MINUS1;
+ValeurCmp = SW_PUSH;
+IdModule  = CHERRY_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = /54540C18;
+Reference = NUM0;
+ValeurCmp = SW_PUSH;
+IdModule  = CHERRY_PCB_200H;
+EndCmp
+
+BeginCmp
+TimeStamp = /54540BDC;
+Reference = NUM1;
+ValeurCmp = SW_PUSH;
+IdModule  = CHERRY_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = /54540BEB;
+Reference = NUM2;
+ValeurCmp = SW_PUSH;
+IdModule  = CHERRY_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = /54540BFA;
+Reference = NUM3;
+ValeurCmp = SW_PUSH;
+IdModule  = CHERRY_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = /545408F0;
+Reference = NUM4;
+ValeurCmp = SW_PUSH;
+IdModule  = CHERRY_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = /545408FF;
+Reference = NUM5;
+ValeurCmp = SW_PUSH;
+IdModule  = CHERRY_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = /5454090E;
+Reference = NUM6;
+ValeurCmp = SW_PUSH;
+IdModule  = CHERRY_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = /545408B4;
+Reference = NUM7;
+ValeurCmp = SW_PUSH;
+IdModule  = CHERRY_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = /545408C3;
+Reference = NUM8;
+ValeurCmp = SW_PUSH;
+IdModule  = CHERRY_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = /545408D2;
+Reference = NUM9;
+ValeurCmp = SW_PUSH;
+IdModule  = CHERRY_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = /54540C36;
+Reference = PERIOD1;
+ValeurCmp = SW_PUSH;
+IdModule  = CHERRY_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = /5454091D;
+Reference = PLUS1;
+ValeurCmp = SW_PUSH;
+IdModule  = CHERRY_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = /54546131;
+Reference = R1;
+ValeurCmp = 51Ω;
+IdModule  = RESISTOR;
+EndCmp
+
+BeginCmp
+TimeStamp = /54546445;
+Reference = R2;
+ValeurCmp = 51Ω;
+IdModule  = RESISTOR;
+EndCmp
+
+BeginCmp
+TimeStamp = /5454652F;
+Reference = R3;
+ValeurCmp = 51Ω;
+IdModule  = RESISTOR;
+EndCmp
+
+BeginCmp
+TimeStamp = /54546541;
+Reference = R4;
+ValeurCmp = 51Ω;
+IdModule  = RESISTOR;
+EndCmp
+
+BeginCmp
+TimeStamp = /54546AE7;
+Reference = R5;
+ValeurCmp = 51Ω;
+IdModule  = RESISTOR;
+EndCmp
+
+BeginCmp
+TimeStamp = /54546AF9;
+Reference = R6;
+ValeurCmp = 51Ω;
+IdModule  = RESISTOR;
+EndCmp
+
+BeginCmp
+TimeStamp = /54546B0B;
+Reference = R7;
+ValeurCmp = 51Ω;
+IdModule  = RESISTOR;
+EndCmp
+
+BeginCmp
+TimeStamp = /54546B1D;
+Reference = R8;
+ValeurCmp = 51Ω;
+IdModule  = RESISTOR;
+EndCmp
+
+BeginCmp
+TimeStamp = /5454E496;
+Reference = R9;
+ValeurCmp = 51Ω;
+IdModule  = RESISTOR;
+EndCmp
+
+BeginCmp
+TimeStamp = /5454E4A8;
+Reference = R10;
+ValeurCmp = 51Ω;
+IdModule  = RESISTOR;
+EndCmp
+
+BeginCmp
+TimeStamp = /5454E4BA;
+Reference = R11;
+ValeurCmp = 51Ω;
+IdModule  = RESISTOR;
+EndCmp
+
+BeginCmp
+TimeStamp = /54542F9C;
+Reference = RIGHT1;
+ValeurCmp = SW_PUSH;
+IdModule  = CHERRY_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = /545406F6;
+Reference = ASTERISK1;
+ValeurCmp = SW_PUSH;
+IdModule  = CHERRY_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = /545406D8;
+Reference = TAB1;
+ValeurCmp = SW_PUSH;
+IdModule  = CHERRY_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = /54544629;
+Reference = U1;
+ValeurCmp = TEENSY2.0;
+IdModule  = TEENSY_2.0;
+EndCmp
+
+BeginCmp
+TimeStamp = /54543159;
+Reference = UP1;
+ValeurCmp = SW_PUSH;
+IdModule  = CHERRY_PCB_100H;
+EndCmp
+
+EndListe
