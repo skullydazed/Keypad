@@ -1,6 +1,6 @@
 (export (version D)
   (design
-    (source /Volumes/Users/zwhite/Keyboard/Keypad/Keypad.sch)
+    (source Keypad.sch)
     (date "Tuesday, November 04, 2014 'AMt' 06:11:41 AM")
     (tool "Eeschema (2014-10-30 BZR 5239)-product"))
   (components
@@ -476,7 +476,7 @@
     (library (logical device)
       (uri "/Library/Application Support/kicad/library/device.lib"))
     (library (logical keyboard)
-      (uri /Volumes/Users/zwhite/Keyboard/keyboard.lib)))
+      (uri keyboard.lib)))
   (nets
     (net (code 1) (name "Net-(D20-Pad1)")
       (node (ref D20) (pin 1))

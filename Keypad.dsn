@@ -1,4 +1,4 @@
-(pcb /Volumes/Users/zwhite/Keyboard/Keypad/Keypad.dsn
+(pcb Keypad.dsn
   (parser
     (string_quote ")
     (space_in_quoted_tokens on)
